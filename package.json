@@ -4,7 +4,8 @@
   "description": "This is me folowing the steps of udacity's FWD egypt advanced web development jan/2022 course ",
   "main": "index.js",
   "scripts": {
-    "prettier": "prettier --config .prettierrc 'src/**/*.js' --write"
+    "prettier": "prettier --config .prettierrc 'src/**/*.js' --write",
+    "build": "npx tsc"
   },
   "keywords": [
     "typscript",

@@ -100,7 +100,6 @@
     /* Completeness */
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true,                                 /* Skip type checking all .d.ts files. */
-    "forceCOnsistentCasingInFileNames": true            /*This will force us to be consistence in our file names we create, not necessary, but will help*/
   },
   "exclude": [                                        /* This will exclude all files in Node_modules file from TS typechecking, because tis will cause unnecessary errors*/
     "node_modules",
