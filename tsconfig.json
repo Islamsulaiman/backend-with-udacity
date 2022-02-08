@@ -103,6 +103,7 @@
   },
   "exclude": [                                        /* This will exclude all files in Node_modules file from TS typechecking, because tis will cause unnecessary errors*/
     "node_modules",
-    "tests"
+    "tests",
+    "spec"
   ]
 }
